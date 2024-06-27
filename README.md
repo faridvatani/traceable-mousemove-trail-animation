@@ -1,6 +1,8 @@
-# traceable-mousemove-trail-animation
+# Traceable Mousemove Trail Animation
 
-traceable Mouse move Trail Animation with HTML, CSS, JS.
+<img src="Screenshot.png" align="center" alt="Traceable Mousemove Trail Animation" /><br>
+
+The Traceable Mousemove Trail Animation project enhances webpages with a dynamic visual trail that tracks mouse movements, using JavaScript for smooth scrolling, canvas drawing, and responsive adjustments to scrolling and resizing, offering an interactive visual effect for web developers.
 
 ## Getting Started
 
