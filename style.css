@@ -100,6 +100,32 @@ nav a:hover {
   margin-bottom: 2em;
 }
 
+footer {
+  position: relative;
+  display: flex;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 2em;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #121212;
+  border: 1px solid #dabd7f;
+  border-radius: 5px;
+  backdrop-filter: blur(50px);
+  mix-blend-mode: difference;
+  z-index: 2;
+}
+
+footer p {
+  font-size: 0.8em;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+/* Lenis Smooth Scroll */
 html.lenis,
 html.lenis body {
   height: auto;
